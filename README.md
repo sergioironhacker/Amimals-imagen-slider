@@ -1,2 +1,2 @@
 # Amimals-imagen-slider
-![Amimals-imagen-slider](https://github.com/sergioironhacker/Digital-Clock/blob/main/imgMain.png)
+![Amimals-imagen-slider](https://github.com/sergioironhacker/Amimals-imagen-slider/blob/main/images/imgMain.png)
